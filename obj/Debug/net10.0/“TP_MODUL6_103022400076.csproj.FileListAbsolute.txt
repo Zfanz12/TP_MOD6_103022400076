@@ -1,0 +1,15 @@
+C:\Users\zulfa\source\repos\“TP_MODUL6_103022400076\“TP_MODUL6_103022400076\bin\Debug\net10.0\“TP_MODUL6_103022400076.exe
+C:\Users\zulfa\source\repos\“TP_MODUL6_103022400076\“TP_MODUL6_103022400076\bin\Debug\net10.0\“TP_MODUL6_103022400076.deps.json
+C:\Users\zulfa\source\repos\“TP_MODUL6_103022400076\“TP_MODUL6_103022400076\bin\Debug\net10.0\“TP_MODUL6_103022400076.runtimeconfig.json
+C:\Users\zulfa\source\repos\“TP_MODUL6_103022400076\“TP_MODUL6_103022400076\bin\Debug\net10.0\“TP_MODUL6_103022400076.dll
+C:\Users\zulfa\source\repos\“TP_MODUL6_103022400076\“TP_MODUL6_103022400076\bin\Debug\net10.0\“TP_MODUL6_103022400076.pdb
+C:\Users\zulfa\source\repos\“TP_MODUL6_103022400076\“TP_MODUL6_103022400076\obj\Debug\net10.0\“TP_MODUL6_103022400076.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zulfa\source\repos\“TP_MODUL6_103022400076\“TP_MODUL6_103022400076\obj\Debug\net10.0\“TP_MODUL6_103022400076.AssemblyInfoInputs.cache
+C:\Users\zulfa\source\repos\“TP_MODUL6_103022400076\“TP_MODUL6_103022400076\obj\Debug\net10.0\“TP_MODUL6_103022400076.AssemblyInfo.cs
+C:\Users\zulfa\source\repos\“TP_MODUL6_103022400076\“TP_MODUL6_103022400076\obj\Debug\net10.0\“TP_MODUL6_103022400076.csproj.CoreCompileInputs.cache
+C:\Users\zulfa\source\repos\“TP_MODUL6_103022400076\“TP_MODUL6_103022400076\obj\Debug\net10.0\“TP_MODUL6_103022400076.sourcelink.json
+C:\Users\zulfa\source\repos\“TP_MODUL6_103022400076\“TP_MODUL6_103022400076\obj\Debug\net10.0\“TP_MODUL6_103022400076.dll
+C:\Users\zulfa\source\repos\“TP_MODUL6_103022400076\“TP_MODUL6_103022400076\obj\Debug\net10.0\refint\“TP_MODUL6_103022400076.dll
+C:\Users\zulfa\source\repos\“TP_MODUL6_103022400076\“TP_MODUL6_103022400076\obj\Debug\net10.0\“TP_MODUL6_103022400076.pdb
+C:\Users\zulfa\source\repos\“TP_MODUL6_103022400076\“TP_MODUL6_103022400076\obj\Debug\net10.0\“TP_MODUL6_103022400076.genruntimeconfig.cache
+C:\Users\zulfa\source\repos\“TP_MODUL6_103022400076\“TP_MODUL6_103022400076\obj\Debug\net10.0\ref\“TP_MODUL6_103022400076.dll
