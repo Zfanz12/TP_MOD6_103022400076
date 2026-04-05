@@ -1,39 +1,41 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
+using System.Diagnostics; 
 
-namespace TP_MODUL6_103022400076 
+namespace TP_MODUL6_103022400076
 {
     class SayaPlayTrack
     {
-        private string title;       
-        private int playCount;     
+        private string title;
+        private int playCount;
 
         public SayaPlayTrack(string title, int playCount)
         {
-            if (title == null)
-                throw new ArgumentException("Title tidak boleh null!");
 
-            if (playCount > 100_000_000)
-                throw new ArgumentException("Play count melebihi batas maksimal (100 juta)!");
+            Debug.Assert(title != null, "Precondition gagal: Title tidak boleh null!");
+
+
+            Debug.Assert(title.Length <= 100, "Precondition gagal: Title maksimal 100 karakter!");
 
             this.title = title;
             this.playCount = playCount;
         }
+
         public void increasePlayCount(int count)
         {
 
-            if (this.playCount + count > 100_000_000)
-                throw new OverflowException("Total play count tidak boleh melebihi 100 juta!");
+            Debug.Assert(count <= 10_000_000, "Precondition gagal: Penambahan maksimal 10.000.000 per pemanggilan!");
 
-            this.playCount += count; 
+            checked
+            {
+                playCount += count;
+            }
         }
 
         public void PrintTrackDetails()
         {
             Console.WriteLine("=== TRACK DETAILS ===");
-            Console.WriteLine("Title     : " + this.title);
-            Console.WriteLine("Play Count: " + this.playCount);
+            Console.WriteLine("Title     : " + title);
+            Console.WriteLine("Play Count: " + playCount);
             Console.WriteLine("=====================");
         }
     }
